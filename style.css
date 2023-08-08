@@ -203,6 +203,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover; }
 
+.burger-menu {
+  display: none; }
+
 @media (max-width: 1024px) {
   .header {
     padding: 64px 72px; }
@@ -217,6 +220,9 @@ body {
   .main {
     padding: 120px 72px; } }
 @media (max-width: 576px) {
+  .burger-menu {
+    display: block; }
+
   .header {
     padding: 32px 20px; }
 
