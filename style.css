@@ -224,7 +224,8 @@ body {
     display: block; }
 
   .header {
-    padding: 32px 20px; }
+    padding: 32px 20px;
+    background-image: url(img/media/img568px.png); }
 
   .header__title {
     font-size: 32px; }
